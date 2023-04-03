@@ -69,12 +69,8 @@
 		C4BEE2651FB319670098BB4A /* CLLocationManagerEvents+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEE2631FB319670098BB4A /* CLLocationManagerEvents+Rx.swift */; };
 		C4BEE2661FB319670098BB4A /* CLLocationManagerEvents+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEE2631FB319670098BB4A /* CLLocationManagerEvents+Rx.swift */; };
 		C4BEE2671FB319670098BB4A /* CLLocationManagerEvents+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BEE2631FB319670098BB4A /* CLLocationManagerEvents+Rx.swift */; };
-		C7C5A31D29DB1F1600AF3697 /* RxBlocking.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A31C29DB1F1600AF3697 /* RxBlocking.xcframework */; };
-		C7C5A32129DB1F2000AF3697 /* RxTest.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32029DB1F2000AF3697 /* RxTest.xcframework */; };
 		C7C5A32929DB1F3100AF3697 /* RxCocoa.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32429DB1F3100AF3697 /* RxCocoa.xcframework */; };
-		C7C5A32B29DB1F3200AF3697 /* Quick.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32529DB1F3100AF3697 /* Quick.xcframework */; };
 		C7C5A32D29DB1F3200AF3697 /* RxSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32629DB1F3100AF3697 /* RxSwift.xcframework */; };
-		C7C5A32F29DB1F3200AF3697 /* Nimble.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32729DB1F3100AF3697 /* Nimble.xcframework */; };
 		C7C5A33129DB1F3300AF3697 /* RxRelay.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7C5A32829DB1F3100AF3697 /* RxRelay.xcframework */; };
 /* End PBXBuildFile section */
 
@@ -162,12 +158,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7C5A32F29DB1F3200AF3697 /* Nimble.xcframework in Frameworks */,
-				C7C5A32B29DB1F3200AF3697 /* Quick.xcframework in Frameworks */,
-				C7C5A32129DB1F2000AF3697 /* RxTest.xcframework in Frameworks */,
 				C7C5A32929DB1F3100AF3697 /* RxCocoa.xcframework in Frameworks */,
 				C7C5A33129DB1F3300AF3697 /* RxRelay.xcframework in Frameworks */,
-				C7C5A31D29DB1F1600AF3697 /* RxBlocking.xcframework in Frameworks */,
 				C7C5A32D29DB1F3200AF3697 /* RxSwift.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
